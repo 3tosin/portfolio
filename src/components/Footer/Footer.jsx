@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     
     <footer>
-        <a href="#" className='footer__logo'>Oluwatosin Adeniyi</a>
+        <a href="#Header" className='footer__logo'>Oluwatosin Adeniyi</a>
         <ul className="permalinks">
         <li><a href="/#">Home</a></li>
         <li><a href="#About">About</a></li>
