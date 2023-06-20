@@ -20,7 +20,7 @@ const data = [
     image: IMG3,
     title: 'To-Do App',
     github: 'https://github.com/3tosin/TODO-APP',
-    demo: 'hhttps://3tosin-todo.netlify.app/'
+    demo: 'https://3tosin-todo.netlify.app/'
   },
   {
     id: 3,
